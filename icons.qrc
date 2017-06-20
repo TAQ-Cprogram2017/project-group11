@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>res/prev_hover1.png</file>
+        <file>res/bg.jpg</file>
+        <file>res/close.png</file>
+        <file>res/gtk-media-forward-ltr.png</file>
+        <file>res/gtk-media-forward-rtl.png</file>
+        <file>res/gtk-media-pause.png</file>
+        <file>res/gtk-media-play-ltr.png</file>
+        <file>res/ic.jpg</file>
+        <file>res/next_hover1.png</file>
+        <file>res/pause_hover1.png</file>
+        <file>res/play1_hover1.png</file>
+        <file>res/play.png</file>
+        <file>res/gtk-add.png</file>
+        <file>res/Pmode1.png</file>
+        <file>res/Pmode2.png</file>
+        <file>res/Pmode4.png</file>
+        <file>res/Pmode3.png</file>
+        <file>res/icon_lyric.png</file>
+        <file>res/ic_min.png</file>
+        <file>res/bg2.jpg</file>
+        <file>res/baymax1.png</file>
+        <file>res/67676.jpg</file>
+        <file>res/20151008144730_kZFBh.jpeg.jpg</file>
+        <file>res/20141002111825_UeBCK.thumb.700_0.jpg</file>
+        <file>res/20141114161011_42rMZ.jpeg.jpg</file>
+        <file>res/20141114161205_4VV48.jpeg.jpg</file>
+        <file>res/20150529201551_YGaNF.jpeg.jpg</file>
+        <file>res/20150530031031_TEe3Q.jpeg.jpg</file>
+        <file>res/20150911153336_Yu3ES.thumb.700_0.jpg</file>
+        <file>res/20150926182320_Z4jWz.jpeg.jpg</file>
+        <file>res/111timg.jpg</file>
+        <file>res/777.jpg</file>
+        <file>res/ti2435mg.jpg</file>
+        <file>res/tim12233g.jpg</file>
+        <file>res/tim1223455g.jpg</file>
+        <file>res/timg.jpg</file>
+    </qresource>
+</RCC>
